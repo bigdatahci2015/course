@@ -36,10 +36,10 @@ tracker of a repository on Github) by leaving a comment following the example
 laptop. You will need to bring your laptop to the class each week to participate
 in the in-class hackathon.
 
-3. We will use [gitbook] extensively to facility learning challenge and
+3. We will use [gitbook](https://github.com/GitbookIO/gitbook) extensively to facility learning challenge and
 hackathons. Fork the [warmup
 gitbook](https://github.com/bigdatahci2015/book-warmup). Clone locally on your
-computer. Read [gitbook] to figure out how you can install the plugin specified
+computer. Read [gitbook](https://github.com/GitbookIO/gitbook) to figure out how you can install the plugin specified
 in `book.json` and serve the book locally on your own computer. If you succeed,
 you should be able to see something like below
 
