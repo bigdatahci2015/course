@@ -1,3 +1,3 @@
 # Hackathons
 
-* [Intro Hackathon](hackathons/intro.md)
+* [Intro Hackathon](intro.md)
