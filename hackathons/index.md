@@ -1,3 +1,4 @@
 # Hackathons
 
-* [Intro Hackathon](intro.md)
+* [Intro](intro.md)
+* [Classmates](./classmates/)

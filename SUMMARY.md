@@ -9,3 +9,4 @@
     * [Warmup](learning/warmup/index.md)
 * [Hackathons](hackathons/index.md)
     * [Intro](hackathons/intro.md)
+    * [Classmates](hackathons/classmates/index.md)
