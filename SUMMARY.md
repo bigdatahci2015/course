@@ -5,6 +5,7 @@
     * [Grading](syllabus/grading.md)
     * [Staff](syllabus/staff.md)
     * [Policy](syllabus/policy.md)
+* [Books](learning/books/index.md)
 * [Learning](learning/index.md)
     * [Warmup](learning/warmup/index.md)
 * [Hackathons](hackathons/index.md)
