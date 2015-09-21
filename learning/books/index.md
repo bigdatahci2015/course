@@ -26,7 +26,7 @@ return _.map(data, function (d) {
     <td>
         <a href="http://{{d.name}}.github.io/book">{{d.name}}</a>        
     </td>
-    {% for week in [1,2] %}
+    {% for week in [1,2,3,4] %}
     <td>
         <a href="http://{{d.name}}.github.io/book/learning/week{{week}}/">week {{week}}</a>
     </td>

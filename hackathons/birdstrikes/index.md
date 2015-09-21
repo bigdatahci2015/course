@@ -1,12 +1,16 @@
-# FCQ
+# Bird Strikes
 
-Date: September 14, 2015
+Date: September 21, 2015
 
 # Presentation
 
-1. Each team presents the team's report on the classmates dataset.
+1. Each team presents the team's report on the FCQ dataset.
 
 # Hackathon
+
+## NEW TEAM!!
+
+We will randomly reshuffle the teams today.
 
 ## Setup
 
@@ -24,5 +28,5 @@ Date: September 14, 2015
 
 ## Timeline
 
-1. Warmup  (30 minutes)
+1. Questions (10 minutes)
 1. Report (1 hour)

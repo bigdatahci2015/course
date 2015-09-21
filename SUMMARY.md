@@ -12,3 +12,4 @@
     * [Intro](hackathons/intro.md)
     * [Classmates](hackathons/classmates/index.md)
     * [FCQ](hackathons/fcq/index.md)
+    * [Birdstrikes](hackathons/birdstrikes/index.md)
