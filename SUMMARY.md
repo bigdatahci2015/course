@@ -1,7 +1,6 @@
 # Summary
 
-* [Syllabus](syllabus/index.md)
-    * [Schedule](syllabus/schedule.md)
+* [Syllabus](syllabus/index.md)    
     * [Grading](syllabus/grading.md)
     * [Staff](syllabus/staff.md)
     * [Policy](syllabus/policy.md)
