@@ -36,6 +36,11 @@ return _.sortBy(_.map(data, function (d) {
         <a href="http://{{d.name}}.github.io/book2/learning/week{{week}}/">W{{week}}</a>
     </td>
     {% endfor %}    
+    {% for week in [9,10] %}
+    <td>
+        <a href="http://{{d.name}}.github.io/book3/week{{week}}/">W{{week}}</a>
+    </td>
+    {% endfor %}        
 </tr>
 {% endfor %}
 </table>
